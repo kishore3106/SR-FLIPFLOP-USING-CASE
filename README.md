@@ -56,6 +56,7 @@ endmodule
 ![Screenshot 2025-04-11 141719](https://github.com/user-attachments/assets/c8f008cb-c7dd-421d-b1cc-d7594f530d54)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![WhatsApp Image 2025-04-16 at 15 10 05_9af14720](https://github.com/user-attachments/assets/a7b81f48-0555-4752-aa69-6adb1e012e42)
 
 
 **RESULTS**
