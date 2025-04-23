@@ -37,7 +37,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 **PROGRAM**
-. Developed by: RegisterNumber:
+. Developed by: Kishore B RegisterNumber: 212224100032
 ```
 module exp6(S,R,clk,Q,Qbar);
 input S,R,clk;
